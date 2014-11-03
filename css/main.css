@@ -1,0 +1,25 @@
+.header{background: #3995C9;display: -webkit-box;-webkit-box-align: center;padding-right: 1em;}
+.header .title{font-size: 1.0625em;color: #fff;-webkit-box-flex: 2;padding: .75em 1em .75em;margin: 0;}
+.header .login{font-size: 1.0625em;color: #fff;width: 1em;height:1em;padding: .25em;margin-right: .5em;background: #79B993;border-radius: 0.25em;display: block;text-decoration: none;}
+.header .search{font-size: 1.0625em;color: #fff;width: 1em;height:1em;padding: .25em;background: #79B993;border-radius: 0.25em;display: block;text-decoration: none;}
+.nav{background: #3995C9;padding:0 1em 0.5em;display:-webkit-box;}
+.nav a{display: block;border: 1px solid #fff;color: #fff;font-size: 0.875em;line-height:1.6em;box-sizing: border-box;-webkit-box-flex: 1;text-align: center;text-decoration: none;}
+.nav .nav1{border-radius: 0.325em 0 0 0.325em;border-right: 0;}
+.nav .nav3{border-radius: 0 0.325em 0.325em 0;border-left: 0;}
+.nav .nav2{border: 1px 0 ;}
+.nav .on {background: #fff;color: #252525;}
+.bd{padding: 1em 1em 1em 0;background: #4C5252;overflow: hidden;display:-webkit-box;}
+.bd ul{-webkit-box-flex: 1;margin-left: 1em;width: 50%;}
+.bd ul li{background: #eee;padding: 0.5em;margin-bottom:1em;}
+.bd ul li h3{font-size: 0.875em;line-height: 1.25;}
+.bd ul li .tag{font-size: 0.625em;}
+.head{background: #3995C9;display: -webkit-box;-webkit-box-align: center;}
+.head h1{font-size: 1.0625em;color: #fff;-webkit-box-flex: 2;padding: .75em 1em .75em;margin: 0;text-align: center;}
+.head .goback{min-width: 4em;-webkit-box-pack: center;-webkit-box-align: center;display: -webkit-box;}
+.head .goback a{display: block;background-image: url('images/t-btn1.png');width: 1.75em;height: 1.75em;background-size: contain;background-repeat: no-repeat;}
+.titleitm{height: 2.25em;background: #5DAEC7;}
+.titleitm .titletxt{font-size: 1;line-height: 2.25;color: #fff;text-indent: 1em;}
+.wrap{background: #EEE;padding: 1em;}
+.wrap img{display: block;width: 100%;}
+.wrap ul{font-size: 0.875em;line-height: 1.5;padding: 0.5em 0;border-bottom: 1px solid #ccc;}
+.wrap p{text-indent: 2em;line-height: 1.5;margin: 0.5em;}
